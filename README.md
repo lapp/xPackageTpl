@@ -1,3 +1,3 @@
 xPackageTpl
 ===========
-toto je další změna něčeho
+High quality
